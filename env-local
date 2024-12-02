@@ -1,0 +1,6 @@
+DB=lesson
+DB_HOST=host.docker.internal
+DB_PASSWORD=password
+DB_PORT=5432
+DB_USER=db_user
+JWT_SECRET_KEY=secret
